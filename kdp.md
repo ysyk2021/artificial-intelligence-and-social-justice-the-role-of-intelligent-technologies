@@ -12,7 +12,7 @@ The book will cover topics such as algorithmic bias, ethical considerations in A
 
 By reading this book, you will gain a deeper understanding of the potential benefits and risks of AI in promoting social justice, and how we can ensure that intelligent technologies are developed and used in ways that promote fairness and equality. Whether you are a researcher, policymaker, or concerned citizen, this book will provide valuable insights into one of the most important issues of our time.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
