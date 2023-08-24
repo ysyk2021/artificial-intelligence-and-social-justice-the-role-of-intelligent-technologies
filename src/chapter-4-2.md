@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Social Justice
-===========================================================================================
 
 In this chapter, we will explore the challenges and limitations of artificial intelligence (AI) in promoting social justice.
 

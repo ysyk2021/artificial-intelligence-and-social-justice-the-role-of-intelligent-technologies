@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Social Justice
-==========================================
 
 As we look to the future, it is clear that artificial intelligence (AI) will continue to play an important role in promoting social justice. In this chapter, we will explore some of the emerging trends and future prospects for AI and social justice.
 

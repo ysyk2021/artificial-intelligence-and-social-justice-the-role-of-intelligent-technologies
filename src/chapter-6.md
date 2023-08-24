@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Social Justice
-===================================================================
 
 As artificial intelligence (AI) becomes increasingly integrated into our society, it is important to consider the ethical and legal implications of using these technologies to promote social justice. This chapter will explore some of the key ethical considerations and the legal framework surrounding AI in social justice.
 

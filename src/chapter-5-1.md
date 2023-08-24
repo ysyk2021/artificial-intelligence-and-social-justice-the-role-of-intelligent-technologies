@@ -1,5 +1,3 @@
-Bias Mitigation and Fairness Assessment
-=======================================================================================
 
 AI has the potential to perpetuate or even amplify existing biases and inequalities in society. Therefore, it is essential to develop and use AI-powered solutions that mitigate bias and promote fairness and equality. This chapter will explore some of the key ways in which AI is being used to overcome bias and promote fairness in various contexts.
 

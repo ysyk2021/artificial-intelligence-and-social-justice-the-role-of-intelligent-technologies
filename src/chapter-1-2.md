@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 In this book, we will explore the role of artificial intelligence (AI) in promoting social justice and equality. As AI technologies continue to advance and become more ubiquitous, it is important to consider the potential benefits and risks that these technologies pose for marginalized communities.
 

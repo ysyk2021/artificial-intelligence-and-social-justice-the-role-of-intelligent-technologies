@@ -1,5 +1,3 @@
-Benefits of AI in Social Justice
-=========================================================================
 
 In this chapter, we will explore the benefits of artificial intelligence (AI) in promoting social justice.
 

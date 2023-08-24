@@ -1,5 +1,3 @@
-Predictive Policing and Criminal Justice Reform
-===============================================================================================
 
 The use of AI technologies in the criminal justice system has been controversial, with concerns raised about the potential for these technologies to perpetuate and exacerbate existing biases and inequality. However, there are also potential benefits to using AI in this context, particularly in promoting more accurate and effective policing and sentencing practices. This chapter will explore some of the key ways in which AI is being used to promote social justice in the criminal justice system, with a focus on predictive policing and criminal justice reform.
 

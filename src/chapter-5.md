@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Social Justice Solutions
-==============================================
 
 As we have discussed in previous chapters, artificial intelligence (AI) presents both risks and opportunities for promoting social justice. In this chapter, we will explore a few specific applications of AI that have the potential to promote fairness and equality.
 

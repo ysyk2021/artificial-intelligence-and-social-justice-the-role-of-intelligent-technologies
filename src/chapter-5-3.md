@@ -1,5 +1,3 @@
-Healthcare Disparities and Access to Care
-=========================================================================================
 
 Healthcare is a fundamental human right, yet access to quality care remains unevenly distributed around the world. AI technologies hold great potential for addressing healthcare disparities and improving access to care, particularly in underserved communities. This chapter will explore some of the AI-powered solutions being developed to address healthcare disparities.
 

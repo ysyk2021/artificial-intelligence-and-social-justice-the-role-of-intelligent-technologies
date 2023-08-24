@@ -1,5 +1,3 @@
-Components of Social Justice
-=================================================================
 
 In this chapter, we will explore the social justice landscape and the components that make up social justice.
 

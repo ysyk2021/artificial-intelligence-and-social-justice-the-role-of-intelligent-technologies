@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Social Justice
-===============================================================================
 
 In this book, we will explore the intersection between artificial intelligence (AI) and social justice. AI technologies have the potential to play a transformative role in promoting fairness and equality, but they also pose risks and challenges that must be carefully considered and addressed.
 

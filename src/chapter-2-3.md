@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will explore the background and fundamentals of artificial intelligence (AI) with a specific focus on machine learning techniques.
 

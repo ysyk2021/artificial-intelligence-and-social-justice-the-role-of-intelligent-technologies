@@ -1,5 +1,3 @@
-Chapter 3: Social Justice Landscape
-===================================
 
 In order to understand the role of artificial intelligence (AI) in promoting social justice, it is important to first examine the social justice landscape. This chapter will explore global trends in equity, diversity, and inclusion, as well as the components of social justice.
 

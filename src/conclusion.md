@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the intersection between artificial intelligence (AI) and social justice, examining the potential benefits and risks of intelligent technologies in promoting fairness and equality. In this concluding chapter, we will summarize the key points discussed throughout the book and reflect on the implications for the future.
 

@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 In this chapter, we will explore the different types of artificial intelligence (AI) and their characteristics.
 

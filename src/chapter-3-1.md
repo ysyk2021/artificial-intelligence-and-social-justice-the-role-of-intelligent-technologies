@@ -1,5 +1,3 @@
-Global Trends in Equity, Diversity, and Inclusion
-======================================================================================
 
 In this chapter, we will explore global trends in equity, diversity, and inclusion in the social justice landscape.
 

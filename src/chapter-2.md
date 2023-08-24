@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To understand the role of artificial intelligence (AI) in promoting social justice, it is important to first explore the background and fundamentals of AI. This chapter will examine the history of AI, types of AI, and machine learning techniques.
 

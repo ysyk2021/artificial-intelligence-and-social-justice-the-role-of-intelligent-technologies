@@ -1,5 +1,3 @@
-Legal Framework
-====================================================================================
 
 As AI technologies continue to be developed and deployed in various aspects of society, it is important to consider the legal implications of their use, particularly in promoting social justice. This chapter will explore some of the key legal considerations related to AI and social justice.
 

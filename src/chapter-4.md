@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Social Justice
-=======================================
 
 Artificial intelligence (AI) has the potential to play a significant role in promoting social justice. In this chapter, we will explore some of the ways in which AI can be leveraged for positive social impact, as well as some of the challenges and limitations that must be addressed.
 
