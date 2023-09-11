@@ -1,5 +1,4 @@
-Chapter: Predictive Policing and Criminal Justice Reform
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of artificial intelligence (AI) and intelligent technologies in predictive policing and its impact on criminal justice reform. Predictive policing refers to the use of data analysis and AI algorithms to forecast criminal activity and allocate law enforcement resources accordingly. While it holds potential for addressing crime, it also raises concerns regarding bias, fairness, and the potential for exacerbating existing disparities within the criminal justice system.
 

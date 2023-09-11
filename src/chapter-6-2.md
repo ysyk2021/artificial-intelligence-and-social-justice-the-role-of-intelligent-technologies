@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The ethical implications and potential social impact of artificial intelligence (AI) have prompted the need for a comprehensive legal framework that ensures fairness, equality, and accountability in the development and deployment of intelligent technologies. In this chapter, we will explore the importance of a robust legal framework and its role in promoting social justice.
 

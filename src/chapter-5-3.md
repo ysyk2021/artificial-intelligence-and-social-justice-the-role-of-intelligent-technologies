@@ -1,5 +1,4 @@
-Chapter: Healthcare Disparities and Access to Care
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of artificial intelligence (AI) and intelligent technologies in addressing healthcare disparities and improving access to care. Healthcare disparities refer to differences in health outcomes and access to healthcare services among different populations. These disparities are influenced by various factors, including socioeconomic status, race and ethnicity, geographic location, and gender. AI has the potential to mitigate these disparities and promote fairness and equality in healthcare provision.
 

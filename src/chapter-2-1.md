@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) refers to the ability of machines to perform tasks that would typically require human intelligence, such as perception, reasoning, and learning. The history of AI dates back to the mid-20th century, and it has undergone significant developments since then. In this chapter, we will explore the history of AI and its evolution over time.
 

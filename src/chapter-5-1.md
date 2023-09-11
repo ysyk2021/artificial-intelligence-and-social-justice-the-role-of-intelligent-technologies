@@ -1,5 +1,4 @@
-Chapter: Bias Mitigation and Fairness Assessment
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical role of bias mitigation and fairness assessment in artificial intelligence (AI) systems. As AI becomes increasingly integrated into various aspects of our lives, it is essential to address the biases that can emerge and ensure fairness and equality in the development and deployment of intelligent technologies.
 

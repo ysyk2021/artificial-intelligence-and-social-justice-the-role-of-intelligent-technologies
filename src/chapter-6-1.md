@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to advance at a rapid pace, it is vital to address the ethical considerations surrounding the use of intelligent technologies. In this chapter, we will explore the key ethical issues that arise in the context of AI and its role in promoting fairness and equality.
 

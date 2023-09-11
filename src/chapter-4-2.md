@@ -1,5 +1,4 @@
-Chapter: Challenges and Limitations of AI in Social Justice
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has the potential to play a significant role in promoting social justice by addressing inequalities and promoting fairness. However, there are several challenges and limitations associated with the use of AI in achieving these goals. In this chapter, we will explore some of these challenges and limitations.
 
